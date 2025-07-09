@@ -16,8 +16,5 @@
 
 7. Run the script http://localhost/oahms
 
-Admin Credential
-Username: admin
-Password: Test@123
 
 
