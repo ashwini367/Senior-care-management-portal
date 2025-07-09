@@ -15,6 +15,9 @@
 6. Import oahmsdb.sql file(given inside the zip package in the SQL file folder)
 
 7. Run the script http://localhost/oahms
+8. Default Admin Login  
+Username: `your_admin_username`  
+Password: `your_admin_password`  
 
 
 
